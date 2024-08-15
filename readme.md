@@ -21,8 +21,8 @@ Follow the steps below to set up and run the OpenLeo platform:
 
 Clone the repository:
 ```
-git clone https://github.com/your-username/openleo-grc-platform.git
-cd openleo-grc-platform
+git clone https://github.com/bitlionsecurity/openleo.git
+cd openleo
 ```
 
 Build and start the Docker containers:
