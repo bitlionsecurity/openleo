@@ -40,9 +40,9 @@ Log in to the application:
 
 Use the following default credentials to log in:
 
-Email: sadmin@bitlion.io
-Password: bismillah
-OTP Code: 123456
+- Email: `sadmin@bitlion.io` <br />
+- Password: `bismillah` <br />
+- OTP Code: `123456` <br />
 
 ## Contributing
 We welcome contributions from the community. If you would like to contribute to the project, please fork the repository and submit a pull request.
