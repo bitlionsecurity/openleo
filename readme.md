@@ -1,22 +1,22 @@
-#OpenLeo GRC Platform
+# OpenLeo GRC Platform
 
-##Overview
+## Overview
 **OpenLeo** is an open GRC (Governance, Risk, and Compliance) platform trusted by the community to help you achieve compliance with ISO standards, Data Privacy regulations, POJK, PBI, and more, easily and quickly. The platform is designed to assist organizations in managing data governance, IT compliance, and cybersecurity.
 
-##Project Structure
+## Project Structure
 This repository contains the necessary files to deploy the OpenLeo GRC platform using Docker. The main files include:
 
 -`docker-compose.yml`: Defines the services required to run the application, including the application itself, PostgreSQL database, Redis server, and Nginx web server.
 -`nginx.conf`: Configuration file for the Nginx web server to serve the OpenLeo application.
 -`README.md`: This file, which provides an overview of the project and instructions for running it.
 
-##Prerequisites
+## Prerequisites
 Before running the project, ensure you have the following installed:
 
 -Docker
 -Docker Compose
 
-##How to Run
+## How to Run
 Follow the steps below to set up and run the OpenLeo platform:
 
 Clone the repository:
@@ -32,7 +32,7 @@ docker-compose up --build
 
 This command will build the Docker images and start the containers for the application, database, Redis server, and Nginx web server.
 
-##Access the application:
+## Access the application:
 
 Once the containers are up and running, you can access the OpenLeo GRC platform by navigating to `http://localhost:8483` in your web browser.
 
@@ -44,8 +44,8 @@ Email: sadmin@bitlion.io
 Password: bismillah
 OTP Code: 123456
 
-##Contributing
+## Contributing
 We welcome contributions from the community. If you would like to contribute to the project, please fork the repository and submit a pull request.
 
-##License
+## License
 This project is open-source and available under the MIT License.
