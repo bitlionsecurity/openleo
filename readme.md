@@ -6,15 +6,15 @@
 ## Project Structure
 This repository contains the necessary files to deploy the OpenLeo GRC platform using Docker. The main files include:
 
--`docker-compose.yml`: Defines the services required to run the application, including the application itself, PostgreSQL database, Redis server, and Nginx web server.<br />
--`nginx.conf`: Configuration file for the Nginx web server to serve the OpenLeo application.<br />
--`README.md`: This file, which provides an overview of the project and instructions for running it.<br />
+- `docker-compose.yml`: Defines the services required to run the application, including the application itself, PostgreSQL database, Redis server, and Nginx web server.<br />
+- `nginx.conf`: Configuration file for the Nginx web server to serve the OpenLeo application.<br />
+- `README.md`: This file, which provides an overview of the project and instructions for running it.<br />
 
 ## Prerequisites
 Before running the project, ensure you have the following installed:
 
--Docker
--Docker Compose
+- Docker <br />
+- Docker Compose <br />
 
 ## How to Run
 Follow the steps below to set up and run the OpenLeo platform:
