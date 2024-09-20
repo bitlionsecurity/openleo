@@ -33,7 +33,7 @@ services:
       - app
 
   app:
-    image: bitlionsecurity/open-leo:latest
+    image: bitlionsecurity/open-leo:v1.2-beta
     container_name: OpenLeo
     working_dir: /var/www/openleo
     depends_on:
